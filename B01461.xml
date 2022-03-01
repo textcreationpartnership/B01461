@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Unto His Grace, His Majesties High Commissioner, and the Right Honourable the Estates of Parliament the petition of John Aytoun of Kinnaldie.</title>
+            <author>Aytoun, John, of Kinaldy, fl. 1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01461</idno>
+            <idno type="STC">Wing A4315B</idno>
+            <idno type="STC">ESTC R172625</idno>
+            <idno type="EEBO-CITATION">51617776</idno>
+            <idno type="OCLC">ocm 51617776</idno>
+            <idno type="VID">175128</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01461)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175128)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2713:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Unto His Grace, His Majesties High Commissioner, and the Right Honourable the Estates of Parliament the petition of John Aytoun of Kinnaldie.</title>
+                  <author>Aytoun, John, of Kinaldy, fl. 1695.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Concerns a dispute between John Aytoun of Kinaldy and Alexander Hamilton of Kinkel.</note>
+                  <note>Imperfect: pages creased with loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Aytoun, John, --  of Kinaldy, fl. 1695 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Hamilton, Alexander, --  of Kinkel, fl. 1695 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Debtor and creditor --  Scotland.</term>
+               <term>Broadsides --  Scotland --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175128:1"/>
+            <head>Unto his Grace, His Majeſties High Commiſſioner, and the Right Honourable the Eſtates of Parliament The Petition of <hi>JOHN AYTO<g ref="char:V">Ʋ</g>N</hi> of <hi>KINNALDIE.</hi>
+            </head>
+            <opener>Humbly ſheweth,</opener>
+            <p>THAT where in the year 16<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>5, Your Petitioners Father <hi>David Aytoun</hi> of <hi>Kennaldie,</hi> having granted a woodlet to the Deceaſt <hi>Robert Hamiltoun</hi> of <hi>Kinkell,</hi> of his Lands of <hi>N<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ther Kennaldie,</hi> with the pertinents for 11500 Merks, and in the year 1644; The Woodſet being Redeemed, the Deceaſt <hi>John Hamiltoun</hi> of <hi>Kinkell,</hi> who was Heir ſerved, and retoured to the Deceaſt <hi>Robert Hamiltoun</hi> of <hi>Kinkell,</hi> his Father did Diſp<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e the ſaid Woodlet Lands<g ref="char:punc">▪</g> and all Right he had thereto, in fa<g ref="char:EOLhyphen"/>vour<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the ſaid <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing Infeſt thereupon, has continued <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of by himſelf, and your Petition<g ref="char:EOLhyphen"/>er: Who is Heir ſerved and Retoured <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the ſaid year 1644, which is now 50 years, and upwards, without the leaſt interruption whatſomever. And <hi>Alexander Hamiltoun</hi> of <hi>Kinkell,</hi> who is Heir ſerved and retoured to the ſaid <hi>John Hamiltoun</hi> his Brother, who was Heir ſerved and retoured to the ſaid <hi>Robert Hamiltoun</hi> their Father, did intent a Reduction thereof before the Lords of Council and Seſſion, which a ſeen and returned. But becauſe he found that the ſaid Diſpoſition is Preſcrived, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o that he cannot quarrel the ſamen. He has given in a Petition to Your Grace, and the Honourable Eſtates of Parliament in moſt general Terms; wherein as he does not mention your Petitioners name nor intereſt, ſo neither does he condeſcend againſt whom the deſign of the Petition is; But moſt cunningly and ſubtily after repreſenting ſome loſſes he had ſuſtained in the Late Government for Eccleſiaſtical Non-Conformi<g ref="char:EOLhyphen"/>ty, by impriſonment, confinements, intercommunion, and other hardſhips, he con<g ref="char:EOLhyphen"/>cludes the Petition thus, That in regard he was expoſed to the runing of Preſcription during the time of his troubles, is may be declared by your Grace and Honourable Eſtates of Parliament, that fourteen years may be deduced from the years of Preſcrip<g ref="char:EOLhyphen"/>tion (ſeeing as he pretends) during that time he was <hi>non volens agere.</hi> By which Con<g ref="char:EOLhyphen"/>cluſion of the ſaid Petition, it is evident that the ſamen is contrived not ſo much for <hi>Kinkels</hi> reparations of his ſufferings in the laſt Government, as for expoſing your Petitio<g ref="char:EOLhyphen"/>ner to new ſufferings under this; Tho he may compare with him even in the laſt Govern<g ref="char:EOLhyphen"/>ment, being fyned in 2000 Merks, which he payed for his Abſence from <hi>Bothwel-Bridge:</hi> And being put to great Expences by a Proceſs before the Council, in declining to be a <hi>Militia-captain,</hi> immediatly before this <hi>happy Revolution;</hi> And if ſuch a General Act as this ſhould paſs in his favours, without citeing this your Petitioner againſt whom the main deſign, Scope &amp; Aim of <hi>Kinkels</hi> Petition runs; then your Petitioners Defence of undoubt<g ref="char:EOLhyphen"/>ed preſcription, is altogether fruſtrat and elieded, and the Matter being of great im<g ref="char:EOLhyphen"/>port to your Petitioner, and of a dangerous preparative to others, who may be equal<g ref="char:EOLhyphen"/>ly concerned in the like caſes, and might be totally ruined by ſuch a generall Act. Therefore your Petitioner humbly beggs pardon to repreſent to Your Grace, and Ho<g ref="char:EOLhyphen"/>nourable Eſtates of Parliament, the Grounds and Reaſons following; why the ſaid Pe<g ref="char:EOLhyphen"/>tition and deſire thereof cannot be granted. And, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> There being a Reduction of the ſaid Right, depending before the Lords of Seſſion, they are ſufficient and competent Judges to decide in matters of preſcription, and to determine whether any years of <hi>Kinkels</hi> intercommuning ſhould be allowed; But it is a thing alto<g ref="char:EOLhyphen"/>gether impracticable, by ſuch general Acts to anticipate the Lords of Seſſion their De<g ref="char:EOLhyphen"/>ciſions, in Proceſſes depending before them, eſpecially when the Parties con<g ref="char:EOLhyphen"/>cerned are not called. 2<hi>do:</hi> The reaſon is evident, why <hi>Kinkel</hi> all this time did not inſiſt in his foreſaid Reduction becauſe the Inſtrumentary witneſſes in the Diſ<g ref="char:EOLhyphen"/>poſition were then living, who were preſent when the ſame was Subſcrived, and knew that the diſponer was in perfect health and vigour of Body; And now they having dyed within theſe few years; And likewayes ſeverall other extrinſick witneſſes who were daily converſing with him, therefore he takes this oportunity, knowing the difficulty
+<pb facs="tcp:175128:2"/> of finding a Probation <hi>in re tam antiqua,</hi> and if this had not been <hi>Kinkels</hi> deſign, what hindered him all the time that judge <hi>Ker</hi> his brother in Law was in Power, and one of he Judges of the Nation, and an eminent Lawyer, he did not then raiſe a reduction, when the matter was recent, and he could not pretend he was <hi>non volens agere.</hi> 3<hi>tio.</hi> If this Diſpoſition were reduced, it would involve your Petitioner in upwards of 60000 Merks, and although he had ſeveral purſuits againſt him, both for relief of Cautionries, and other Debts, againſt which, he defended moſt litigouſly, and wherein there were four ſeveral Suſpentions diſcuſſed, and ſeveral grounds of Compenſation founded upon; Yet never a word of this Debt, which certainly he would have done, if there had been any juſt ground therefore, both conſidering the greatneſs of the Summ, and <hi>Kinkells</hi> bad circumſtances, his Eſtate being totaly ruined by Debt theſe many years by gone: Like as after your Petitioner had prevailed by obtaining Decreets of the Lords; He diſ<g ref="char:EOLhyphen"/>poned ſeveral others of his lands in my favors, in ſatisfaction of the ſumms diſcerned; As alſo <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſingle and liferent Eſcheat, for his further ſecurity of the <hi>new conqueſt,</hi> did obtain Decreets of General &amp; ſpecial declarator againſt him after moſt litigious debates, &amp; during all the time of the dependence of theſe proceſ<g ref="char:EOLhyphen"/>ſes, there was never ſo much as mention made of this Reduction. 4<hi>to.</hi> If the point of preſcription were to be diſcuſt before the Lords of Seſſion, before whom the Reduc<g ref="char:EOLhyphen"/>tion is depending. It is conceived, that there could be no pretence why Preſcription ſhould not run, during the time <hi>Kinkel</hi> was confined to the Town and Suburbs of <hi>Edin<g ref="char:EOLhyphen"/>burgh,</hi> where he had Liberty to paſs and repaſs for many Years, So that he being reſi<g ref="char:EOLhyphen"/>dent in <hi>Edinburgh,</hi> and never being ſo much as denounced for not appearing, cannot be preſumed that he was in the Terms of an Intercommuning, but might certainly have raiſed a Sumonds, and given a Citation, which would undoubtedly have ſtooped Preſcription. And in the year 1684, your Petitioner having purſued <hi>Kinkel</hi> and his Tenants before the Stewart of the Stewartry of St. <hi>Andrews,</hi> he did then Advocat the cauſe, &amp; did many other Acts in the years of his pretended Intercommuning, So that in ſome Caſes, it ſeems he was <hi>Valens agere,</hi> but in this Caſe he deſigned not to be, but by his own dilict, has undoubtedly deſigned to take advantage of your Petitioner. And it is impoſſible, That in Law or Juſtice, there can be Deduction of years, that he was under the ſaid Impriſonment, Confinement, or willful and deſigned lurking up and down the Countrie, occaſioned chiefly by Captions, for Civil Debts, not yet pay<g ref="char:EOLhyphen"/>ed, nor removed; And under which Captions <hi>Kinkel</hi> yet lyes, during which time no<g ref="char:EOLhyphen"/>thing could hinder him to have raiſed a Proceſs of Reduction againſt your Petitioner. By all which it is evident, That he has had a deſign againſt your Petitioner, to bring him to unneceſſary Trouble, Charges and Expenceſs</p>
+            <p>
+               <hi>In Reſpect of all which, It is Humbly craved, That my Lord Commiſſioner his Grace, and Honourable Eſtates of Parlia<g ref="char:EOLhyphen"/>ment, would be pleaſed altogether to Reject the ſaid Peti<g ref="char:EOLhyphen"/>tion, at leaſt the laſt part thereof, relating to Preſcrip<g ref="char:EOLhyphen"/>tion, wherein your Petitioner is ſo much concerned, and the ſamen relating to a Proceſs depending before the Lords of Seſſion; Or otherwayes to allow me to be heard before any ſuch general Act paſs in Favours of</hi> Kinkel, <hi>In Caſe your Grace, and Honourable Eſtates of Parliament ſhould think fit, to take the ſamen to your Conſiderations.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
